@@ -17,19 +17,19 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
   </a>
-   <a href="https://www.instagram.com/uzair_riaz_11">
+<!--    <a href="https://www.instagram.com/uzair_riaz_11">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://www.facebook.com/uzair.riaz.391">
+  </a> -->
+<!--    <a href="https://www.facebook.com/uzair.riaz.391">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <a href="https://twitter.com">
+  </a> -->
+<!--    <a href="https://twitter.com">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd,photoshop,python,java,javascript,mysql,sqlite&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,laravel,firebase,github,git,postman,figma,xd,photoshop,javascript,mysql,sqlite&perline=6)](https://skillicons.dev)
 
 
 ### GitHub Stats:
