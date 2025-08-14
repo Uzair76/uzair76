@@ -2,12 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Uzair!;" />
 </h1>
 
-### About Me:
-- 🔭 I'm a Flutter developer and Laravel developer, specializing in creating mobile applications and web applications.
-- 🌱 Currently, I'm expanding my skills into Backend development (Laravel).
-- 💬 Feel free to ask me anything about Flutter and Laravel.
-- 📫 You can reach me at riazuzair64@gmail.com.
-- 🎯 Always striving to improve my coding skills and learn new technologies.
+### 👨‍💻 About Me:
+I'm currently working as a **Laravel Backend Developer** at **Afford-IT Limited**, Auckland, New Zealand.  
+Excited to explore new opportunities and grow as a developer in the future.
+
+---
 
 ### Connect with me:
 <div id="badges">
