@@ -41,7 +41,6 @@ Excited to explore new opportunities and grow as a developer in the future.
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="50" height="50"/> 
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="50" height="50"/> 
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" width="50" height="50"/> 
-  <img src="https://skillicons.dev/icons?i=dart" title="Dart" width="50" height="50"/> 
 
 </div>
 
