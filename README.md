@@ -16,7 +16,7 @@ Excited to explore new opportunities and grow as a developer in the future.
   <a href="https://github.com/Uzair76">
     <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/flutterdeveloperuzair/">
+  <a href="https://www.linkedin.com/in/backenddeveloperuzair/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
